@@ -1,4 +1,4 @@
-# AI Adoption Classification
+# Adoption Inention Classification
 
 > Predicting AI adoption intent (UTAUT) from survey data — multi-model
 > benchmark with cross-validation.
@@ -7,13 +7,12 @@
 [![scikit-learn 1.6](https://img.shields.io/badge/scikit--learn-1.6-orange.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-Author: **Shahriar Islam** · ID: 241000461
-
+Author: **Shahriar Islam** ·
 ---
 
 ## What this project does
 
-A survey-based classification analysis of **AI adoption intent** using
+A survey-based classification analysis of **AI Adoption Intent** using
 constructs from the **Unified Theory of Acceptance and Use of Technology
 (UTAUT)**:
 
